@@ -1,6 +1,6 @@
 {
   "name": "uniapp_vue3_ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "dev:h5": "uni",
     "dev": "uni -p mp-weixin",
